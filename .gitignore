@@ -1,4 +1,7 @@
 *.log
 *.db
-/target
+*/target
 /bin
+*.class
+*.iml
+*/.idea
